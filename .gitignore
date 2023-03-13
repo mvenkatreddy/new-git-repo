@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# My local ignores
+*.sql
+local.py
+*.msql
+
 # Distribution / packaging
 .Python
 build/
