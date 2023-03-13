@@ -1,3 +1,6 @@
 Python
 Django
 Selenium
+
+C and NP
+AWS & DevOps
