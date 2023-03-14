@@ -3,6 +3,7 @@ Python
 # frame words
 Django
 # QE
+Datascience
 Selenium
 
 # PT
