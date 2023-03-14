@@ -5,8 +5,11 @@ Django
 # Data analyst
 Datascience
 # automation
+# QE
+Datascience
 Selenium
 
+# PT
 C and NP
 # cloud
 AWS & DevOps
