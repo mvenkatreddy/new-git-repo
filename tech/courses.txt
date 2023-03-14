@@ -2,6 +2,7 @@
 Python
 # frame words
 Django
+Datascience
 Selenium
 
 C and NP
