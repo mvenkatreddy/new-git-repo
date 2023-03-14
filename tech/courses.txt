@@ -1,9 +1,9 @@
 # Main 
 Python
 # frame words
-Django
+Django, flask
 # Data analyst
-Datascience
+Datascience, PyTarch
 # automation
 # QE
 Datascience
