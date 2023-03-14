@@ -2,7 +2,9 @@
 Python
 # frame words
 Django
+# Data analyst
 Datascience
+# automation
 Selenium
 
 C and NP
