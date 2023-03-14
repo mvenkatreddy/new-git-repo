@@ -2,8 +2,10 @@
 Python
 # frame words
 Django
+# QE
 Selenium
 
+# PT
 C and NP
 # cloud
 AWS & DevOps
