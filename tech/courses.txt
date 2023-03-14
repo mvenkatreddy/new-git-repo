@@ -1,6 +1,9 @@
+# Main 
 Python
+# frame words
 Django
 Selenium
 
 C and NP
+# cloud
 AWS & DevOps
