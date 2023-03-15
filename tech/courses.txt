@@ -8,6 +8,14 @@ Datascience, PyTarch
 # automation # QE # QA # A T
 Selenium
 
+
+
+# DB
+# MYSQL
+# SQL
+# MONGO
+
+
 # PT
 C and NP
 # cloud
