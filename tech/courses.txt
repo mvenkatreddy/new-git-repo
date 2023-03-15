@@ -6,6 +6,13 @@ Django, flask
 Datascience, PyTarch
 
 # automation # QE # QA # A T
+Django
+# Data analyst, Data Path
+Datascience, Pandas
+ML
+# automation
+# QE
+Datascience
 Selenium
 
 
