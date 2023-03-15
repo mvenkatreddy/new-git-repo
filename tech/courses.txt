@@ -2,11 +2,10 @@
 Python
 # frame words
 Django, flask
-# Data analyst
+# Data analyst, # DS
 Datascience, PyTarch
-# automation
-# QE
-Datascience
+
+# automation # QE # QA # A T
 Selenium
 
 # PT
